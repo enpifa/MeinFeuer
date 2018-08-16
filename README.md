@@ -14,3 +14,9 @@ Files needed to execute the C++ version:
 - MeinWort.cpp
 - MeinWort.hpp
 - All the .txt files
+
+Files needed to execute the Java version:
+- Myclass.java
+- MeinFeuer.java
+- MeinWort.java
+- All the .txt files
