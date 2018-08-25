@@ -20,3 +20,9 @@ Files needed to execute the Java version:
 - MeinFeuer.java
 - MeinWort.java
 - All the .txt files
+
+Files needed to execute the C# version:
+- MeinFeuer.cs
+- MeinWort.cs
+- Program.cs
+- All the .txt files
